@@ -1,4 +1,4 @@
-<h1><br>AirBnB Clone - The Console</br></h1>h1>
+<h1><br>AirBnB Clone - The Console</br></h1>
 AirBnB Clone
 
 Welcome to the AirBnB clone project! This project focuses on building a command interpreter to manage AirBnB objects, serving as the foundation for a full web application.
